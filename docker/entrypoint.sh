@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source /scripts/install.sh
+#source /scripts/install.sh
 source /scripts/cleanup.sh
 source /scripts/update.sh
 source /scripts/filter.sh
